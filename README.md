@@ -1,4 +1,4 @@
-# Github search of the repositories. Stack: react-toolkit, rtkQuery, TypeScript
+# Search search of the Github  profiles using Github API. Stack used: react-toolkit, rtkQuery, TypeScript, Tailwind
 
 # Getting Started with Create React App
 
