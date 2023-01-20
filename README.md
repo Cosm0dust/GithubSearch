@@ -1,3 +1,5 @@
+# Github search of the repositories. Stack: react-toolkit, rtkQuery, TypeScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
